@@ -1,0 +1,4 @@
+interface:
+  display_name: "NEWS"
+  short_description: "核验并整理权威 AI 资讯"
+  default_prompt: "收集并核验最新 AI 资讯，提炼 5 至 8 条并更新高级黑白网页。"
