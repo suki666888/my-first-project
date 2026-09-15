@@ -1,4 +1,4 @@
 interface:
-  display_name: "NEWS"
-  short_description: "核验并整理权威 AI 资讯"
-  default_prompt: "收集并核验最新 AI 资讯，提炼 5 至 8 条并更新高级黑白网页。"
+  display_name: "NEWS SKILL"
+  short_description: "四步完成权威 AI 资讯核验、网页生成与部署"
+  default_prompt: "使用 $news 严格按四个 STEP 收集并核验最新 AI 资讯，生成网页并部署上线。"
